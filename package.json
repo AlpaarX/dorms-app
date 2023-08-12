@@ -21,6 +21,6 @@
   "dependencies": {
     "better-sqlite3": "^8.5.0",
     "leaflet": "^1.9.4",
-    "rakutenma": "^1.0.0"
+    "tiny-segmenter": "^0.2.0"
   }
 }
